@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 2/3/2021 7:03:15 PM.
+Build started 2/3/2021 7:30:59 PM.
 Project "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\3.19.4\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
@@ -35,7 +35,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.93
+Time Elapsed 00:00:00.81
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -54,7 +54,7 @@ The output was:
 Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 2/3/2021 7:03:16 PM.
+Build started 2/3/2021 7:31:00 PM.
 Project "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\3.19.4\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
@@ -80,7 +80,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.64
+Time Elapsed 00:00:00.60
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,42 +92,42 @@ The CXX compiler identification is MSVC, found in "C:/Users/Austin/Documents/RPI
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d74a4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9f23e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CMakeCCompilerABI.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d74a4.dir\Debug\\" /Fd"cmTC_d74a4.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeCCompilerABI.c"
-  cmTC_d74a4.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_d74a4.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9f23e.dir\Debug\\" /Fd"cmTC_9f23e.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeCCompilerABI.c"
+  cmTC_9f23e.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_9f23e.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_da763.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_dee2d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CMakeCXXCompilerABI.cpp
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_da763.dir\Debug\\" /Fd"cmTC_da763.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_da763.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_da763.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_dee2d.dir\Debug\\" /Fd"cmTC_dee2d.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_dee2d.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_dee2d.exe
 
 
 
 Performing C SOURCE FILE Test HAVE_WIN32_CC succeeded with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_46076.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_96623.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   src.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_WIN32_CC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_46076.dir\Debug\\" /Fd"cmTC_46076.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\src.c"
-  cmTC_46076.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_46076.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_WIN32_CC /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_96623.dir\Debug\\" /Fd"cmTC_96623.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\src.c"
+  cmTC_96623.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_96623.exe
 
 
 Source file was:
@@ -137,14 +137,14 @@ Source file was:
 Performing C SOURCE FILE Test HAVE_XINPUT_H succeeded with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_a2026.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_3b21e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   src.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_XINPUT_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a2026.dir\Debug\\" /Fd"cmTC_a2026.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\src.c"
-  cmTC_a2026.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_a2026.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_XINPUT_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b21e.dir\Debug\\" /Fd"cmTC_3b21e.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\src.c"
+  cmTC_3b21e.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_3b21e.exe
 
 
 Source file was:
@@ -155,99 +155,99 @@ Source file was:
 Determining if the include file d3d9.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_82309.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_21e6a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_82309.dir\Debug\\" /Fd"cmTC_82309.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_82309.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_82309.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_21e6a.dir\Debug\\" /Fd"cmTC_21e6a.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_21e6a.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_21e6a.exe
 
 
 
 Determining if the include file d3d11_1.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_5e0e8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_04c54.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e0e8.dir\Debug\\" /Fd"cmTC_5e0e8.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_5e0e8.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_5e0e8.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_04c54.dir\Debug\\" /Fd"cmTC_04c54.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_04c54.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_04c54.exe
 
 
 
 Determining if the include file ddraw.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_cc8d8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b0c99.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc8d8.dir\Debug\\" /Fd"cmTC_cc8d8.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_cc8d8.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_cc8d8.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b0c99.dir\Debug\\" /Fd"cmTC_b0c99.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_b0c99.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_b0c99.exe
 
 
 
 Determining if the include file dsound.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_16ef3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_71736.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_16ef3.dir\Debug\\" /Fd"cmTC_16ef3.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_16ef3.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_16ef3.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_71736.dir\Debug\\" /Fd"cmTC_71736.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_71736.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_71736.exe
 
 
 
 Determining if the include file dinput.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_b730a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_1d703.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b730a.dir\Debug\\" /Fd"cmTC_b730a.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1d703.dir\Debug\\" /Fd"cmTC_1d703.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-  cmTC_b730a.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_b730a.exe
+  cmTC_1d703.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_1d703.exe
 
 
 
 Determining if the include file xaudio2.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_ec8c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_08ad3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ec8c7.dir\Debug\\" /Fd"cmTC_ec8c7.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_ec8c7.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_ec8c7.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_08ad3.dir\Debug\\" /Fd"cmTC_08ad3.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_08ad3.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_08ad3.exe
 
 
 
 Determining if the include file dxgi.h exists passed with the following output:
 Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_62146.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_0b04a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.7.0+b89cb5fde for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
   CheckIncludeFile.c
   Copyright (C) Microsoft Corporation.  All rights reserved.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_62146.dir\Debug\\" /Fd"cmTC_62146.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
-  cmTC_62146.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_62146.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0b04a.dir\Debug\\" /Fd"cmTC_0b04a.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  cmTC_0b04a.vcxproj -> C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\build\ga1-win64\CMakeFiles\CMakeTmp\Debug\cmTC_0b04a.exe
 
 
 
