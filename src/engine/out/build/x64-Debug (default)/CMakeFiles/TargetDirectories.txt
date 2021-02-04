@@ -1,0 +1,14 @@
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/ga.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/install/local.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/install.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/CMakeFiles/list_install_components.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/rebuild_cache.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/SDL2-static.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/SDL2main.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/uninstall.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/install/local.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/install.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/edit_cache.dir
+C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)/SDL2-2.0.5/CMakeFiles/list_install_components.dir

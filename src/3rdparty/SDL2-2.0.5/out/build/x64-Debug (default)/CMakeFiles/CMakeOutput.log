@@ -1,0 +1,121 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.27.29112 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29112.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_db9ca && [1/2] Building C object CMakeFiles\cmTC_db9ca.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_db9ca.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a0df1 && [1/2] Building C object CMakeFiles\cmTC_a0df1.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_a0df1.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_WIN32_CC succeeded with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_54f95 && [1/2] Building C object CMakeFiles\cmTC_54f95.dir\src.c.obj
+[2/2] Linking C executable cmTC_54f95.exe
+
+
+Source file was:
+
+    #include <windows.h>
+    int main(int argc, char **argv) { }
+Performing C SOURCE FILE Test HAVE_XINPUT_H succeeded with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_83bc3 && [1/2] Building C object CMakeFiles\cmTC_83bc3.dir\src.c.obj
+[2/2] Linking C executable cmTC_83bc3.exe
+
+
+Source file was:
+
+        #include <windows.h>
+        #include <xinput.h>
+        int main(int argc, char **argv) { }
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_29ec4 && [1/2] Building C object CMakeFiles\cmTC_29ec4.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_29ec4.exe
+
+
+
+Determining if the include file d3d11_1.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4d804 && [1/2] Building C object CMakeFiles\cmTC_4d804.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4d804.exe
+
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_cf394 && [1/2] Building C object CMakeFiles\cmTC_cf394.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_cf394.exe
+
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9f92f && [1/2] Building C object CMakeFiles\cmTC_9f92f.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_9f92f.exe
+
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5f59e && [1/2] Building C object CMakeFiles\cmTC_5f59e.dir\CheckIncludeFile.c.obj
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+[2/2] Linking C executable cmTC_5f59e.exe
+
+
+
+Determining if the include file xaudio2.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8b27b && [1/2] Building C object CMakeFiles\cmTC_8b27b.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_8b27b.exe
+
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5/out/build/x64-Debug (default)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_488da && [1/2] Building C object CMakeFiles\cmTC_488da.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_488da.exe
+
+
+

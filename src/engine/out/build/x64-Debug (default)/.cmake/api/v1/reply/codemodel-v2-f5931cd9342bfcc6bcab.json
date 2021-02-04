@@ -1,0 +1,120 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "SDL2-2.0.5",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/3rdparty/SDL2-2.0.5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ga1",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SDL2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2-static::@0fd9a87a71f7b7ff81d8",
+					"jsonFile" : "target-SDL2-static-Debug-13c0017883c896e12ca8.json",
+					"name" : "SDL2-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2main::@0fd9a87a71f7b7ff81d8",
+					"jsonFile" : "target-SDL2main-Debug-7355f0d76ac08ffa65e6.json",
+					"name" : "SDL2main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ga::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ga-Debug-17c5c4edf05e09bc4e05.json",
+					"name" : "ga",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@0fd9a87a71f7b7ff81d8",
+					"jsonFile" : "target-uninstall-Debug-d3cefa0694d189de333d.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine/out/build/x64-Debug (default)",
+		"source" : "C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

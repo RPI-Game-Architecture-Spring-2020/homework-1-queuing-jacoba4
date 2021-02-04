@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\entity\ga_component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\entity\ga_entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\entity\ga_hello_component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\framework\ga_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\framework\ga_output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\framework\ga_sim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_condvar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_fiber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_intpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_job.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\jobs\ga_queue.tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\out\build\x64-Debug (default)\CMakeFiles\3.17.20032601-MSVC_2\CompilerIdCXX\CMakeCXXCompilerId.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Austin\Documents\RPI\gsas\Game Architecture\homework-1-queuing-jacoba4\src\engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{758A2751-44E7-3209-BDF9-BCF308ABB811}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

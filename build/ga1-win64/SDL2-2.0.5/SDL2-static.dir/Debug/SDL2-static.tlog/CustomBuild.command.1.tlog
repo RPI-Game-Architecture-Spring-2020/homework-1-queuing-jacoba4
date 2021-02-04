@@ -1,0 +1,10 @@
+^C:\USERS\AUSTIN\DOCUMENTS\RPI\GSAS\GAME ARCHITECTURE\HOMEWORK-1-QUEUING-JACOBA4\SRC\3RDPARTY\SDL2-2.0.5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/src/engine" "-BC:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64" --check-stamp-file "C:/Users/Austin/Documents/RPI/gsas/Game Architecture/homework-1-queuing-jacoba4/build/ga1-win64/SDL2-2.0.5/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

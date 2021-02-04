@@ -1,5 +1,5 @@
 #pragma once
-
+#include <mutex>
 /*
 ** RPI Game Architecture Engine
 **
@@ -16,6 +16,12 @@
 class ga_queue
 {
 public:
+	struct Node
+	{
+		void* value;
+		Node* next;
+
+	};
 	ga_queue(int node_count);
 	~ga_queue();
 
@@ -23,4 +29,10 @@ public:
 	bool pop(void** data);
 
 	int get_count() const;
+
+private:
+	Node* head;
+	Node* tail;
+	std::mutex H_lock, T_lock;
+	int count;
 };
